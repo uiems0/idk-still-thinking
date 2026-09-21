@@ -24,5 +24,25 @@
 .ChoiceButton {
   width: 20%;
   height: 10%;
-  background-color: darkgreen;
+  background-color: rgb(114, 194, 94);
+  border-color: rgb(0, 255, 123);
+  color: rgb(0, 0, 0);
+}
+
+#CharName {
+  border-color: aqua;
+  border-width: 5%;
+  position: absolute;
+  top: 85%;
+  left: 10%;
+  transform: translate(-50%,-50%);
+  text-align: left;
+}
+
+#CharSpeak {
+  position: absolute;
+  top: 92.5%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: left;
 }
