@@ -1,1 +1,5 @@
-
+let ButtonImg = document.getElementById("Centered")
+let Option1Element = document.getElementById("CB1")
+let Option2Element = document.getElementById("CB2")
+let CharNameElement = document.getElementById("CharName")
+let CharSpeakElement = document.getElementById("CharSpeak")
