@@ -2,7 +2,7 @@
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);/* might change these transforms depending on how it looks, but now i just need assests *\
   width: 35%;
 }
 
