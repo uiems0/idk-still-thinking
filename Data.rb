@@ -1,6 +1,6 @@
-NewData = {#I will add more data later, this is just so I can frame how I want it to work. Also I still need to actually come up with the story
+NewData = {#
     ["Section1"] => {
-        ["Background"] => "HTMLINKHERE",
+        ["Background"] => "IMGHERE",
         ["Scene1"] => {
             ["MC"] => "MAINCHARACTERIMG",#MC will always be seen
             ["SC1"] => "SIDECHARACTERIMG",
