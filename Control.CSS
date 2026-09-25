@@ -2,7 +2,7 @@
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);/* might change these transforms depending on how it looks, but now i just need assests *\
+  transform: translate(-50%, -50%);
   width: 35%;
 }
 
@@ -45,4 +45,24 @@
   left: 50%;
   transform: translate(-50%,-50%);
   text-align: left;
+}
+
+
+
+.CharImg {
+  width: 15%;
+  height: 250px;
+  position: absolute;
+}
+
+#MCImg {
+  top: 55%;
+  left: 10%;
+  transform: translate(-50%,-50%);
+}
+
+#SCImg {
+  top: 55%;
+  left: 90%;
+  transform: translate(-50%,-50%);
 }
